@@ -1,0 +1,8 @@
+matplotlib
+torch==1.6.0+cpu
+Flask==1.1.2
+torchvision==0.7.0+cpu
+streamlit==0.64.0
+requests==2.24.0
+numpy==1.18.4
+Pillow==8.3.1
