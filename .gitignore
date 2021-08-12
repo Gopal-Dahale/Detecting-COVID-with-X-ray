@@ -1,0 +1,22 @@
+### JupyterNotebooks ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### VS Code ###
+.vscode/
+
+
+### Dataset ###
+COVID-19 Radiography Database/covid
+COVID-19 Radiography Database/normal
+COVID-19 Radiography Database/viral
+COVID-19 Radiography Database/COVID-19.metadata.xlsx
+COVID-19 Radiography Database/Viral Pneumonia.matadata.xlsx
+COVID-19 Radiography Database/NORMAL.metadata.xlsx
+COVID-19 Radiography Database/README.md.txt
