@@ -1,1 +1,1 @@
-"# Detecting-COVID-with-X-ray" 
+# Detecting-COVID-with-X-ray
